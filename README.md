@@ -42,6 +42,8 @@ This commands includes
 ### nslookup:
 ![Screenshot 2024-11-05 083754](https://github.com/user-attachments/assets/06c5e9b2-f777-4483-8ca9-5bf3ad94a542)
 
+![Screenshot 2024-11-05 083806](https://github.com/user-attachments/assets/87686201-45c0-4142-8a55-0052249320ec)
+
 ### getmac:
 ![Screenshot 2024-11-05 083907](https://github.com/user-attachments/assets/d4ec31f2-66f4-4cd6-8614-c2e5d0e96664)
 
@@ -55,8 +57,9 @@ This commands includes
 ![Screenshot 2024-11-05 084125](https://github.com/user-attachments/assets/29907908-ab76-4b8f-bc8e-062676a3a666)
 
 ### systeminfo:
-
 ![Screenshot 2024-11-05 084219](https://github.com/user-attachments/assets/45b8d46c-7ccb-4c04-9c3c-0ceeaa8e4ee0)
+
+![Screenshot 2024-11-05 084229](https://github.com/user-attachments/assets/9902ce77-2cc2-4633-85f5-dc6bda1829f7)
 
 ## Result
 Thus Execution of Network commands Performed 
